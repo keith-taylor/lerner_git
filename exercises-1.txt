@@ -1,0 +1,27 @@
+(1) Create a new repository.
+
+(2) Look at the .git/config file in that repository.
+
+(3) Set your name and e-mail address, specifically for that repository.
+
+(4) View your name and e-mail address
+
+(5) Use "git status" to see what you're in a new repository.
+
+(6) Create a new text file.  Use "git status" to see it's untracked.
+
+(7) Add the new file to the staging area with "git add".  Use "git
+status" to see that it's staged.
+
+(8) Create a commit.
+
+(9) Use "git status" to see that the file has been added.
+
+(10) Modify the file, and commit the changes.
+
+(11) Modify the file again, and add a second file.  Stage both with
+"git add", and check that with "git status".  Then remove the new file
+from staging.  Check with "git status", to see that just the existing
+file will be committed.  Commit the existing file, and then add+commit
+the new file.
+
