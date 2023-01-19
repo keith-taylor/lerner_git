@@ -3,3 +3,5 @@ This file was empty, it's not now.
 Now it has some happy text in it.
 
 Exercise 3 is this file.
+
+Adding this module for compatability with the new file_2.txt
