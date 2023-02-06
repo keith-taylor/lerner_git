@@ -1,6 +1,6 @@
-This is the text for the new-new
+This is the text for the new-new.
 
-You can see it if you peek
+You can see it if you peek.
 
 Inside the file (where we are now). 
 
